@@ -1,0 +1,342 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Vitor Lobão",
+    "label": "DevOps",
+    "image": "",
+    "email": "vitor.lobs@gmail.com",
+    "phone": "+5541997953049",
+    "url": "https://linkedin.com/magusd",
+    "summary": "Seasoned devops engineer with software engineering background.",
+    "location": {
+      "countryCode": "BR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "magusd",
+        "url": "https://www.linkedin.com/in/magusd/"
+      },
+      {
+        "network": "Github",
+        "username": "magusd",
+        "url": "https://github.com/magusd"
+      },
+      {
+        "network": "Credly",
+        "username": "vitor-lobao",
+        "url": "https://www.credly.com/users/vitor-lobao/badges"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "magus",
+        "url": "https://stackoverflow.com/users/1489237/magus"
+      }
+
+    ]
+  },
+  "work": [
+    {
+      "name": "Upright",
+      "location": "New York, United States",
+      "position": "Staff DevOps Engineer",
+      "url": "https://upright.us/",
+      "startDate": "2023-03-08",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Upright",
+      "location": "New York, United States",
+      "position": "Senior DevOps Engineer",
+      "url": "https://upright.us/",
+      "startDate": "2022-11-08",
+      "endDate": "2023-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Tesorio",
+      "location": "California, United States",
+      "position": "Senior DevOps Engineer",
+      "url": "https://www.tesorio.com/",
+      "startDate": "2022-07-01",
+      "endDate": "2023-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Carta Healthcare",
+      "location": "California, United States",
+      "position": "Senior DevOps Engineer",
+      "url": "https://carta.healthcare/",
+      "startDate": "2020-05-01",
+      "endDate": "2022-07-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Munai(Robô Laura)",
+      "location": "Curitiba, Brazil",
+      "position": "Senior Software Architect",
+      "url": "https://munai.com.br/",
+      "startDate": "2020-01-01",
+      "endDate": "2020-08-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "MadeiraMadeira",
+      "location": "Curitiba, Brazil",
+      "position": "Senior Software Architect",
+      "url": "https://madeiramadeira.com.br/",
+      "startDate": "2019-07-01",
+      "endDate": "2019-11-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "MadeiraMadeira",
+      "location": "Curitiba, Brazil",
+      "position": "Lead Software Engineer",
+      "url": "https://madeiramadeira.com.br/",
+      "startDate": "2018-10-01",
+      "endDate": "2019-07-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "MadeiraMadeira",
+      "location": "Curitiba, Brazil",
+      "position": "Senior Software Engineer",
+      "url": "https://madeiramadeira.com.br/",
+      "startDate": "2016-05-01",
+      "endDate": "2018-03-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "SimpleGuest",
+      "location": "Curitiba, Brazil",
+      "position": "Founder | Senior Software Engineer",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Ebanx",
+      "location": "Curitiba, Brazil",
+      "position": "Senior Software Engineer",
+      "url": "https://www.ebanx.com/en/",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "RevendaMais",
+      "location": "Curitiba, Brazil",
+      "position": "Senior Software Engineer",
+      "url": "https://revendamais.com.br/",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Astropay",
+      "location": "Uruguay",
+      "position": "Junior Software Engineer",
+      "url": "https://www.astropay.com/",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "LojasKD",
+      "location": "Curitiba, Brazil",
+      "position": "Junior Software Engineer",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "ExxonMobil",
+      "location": "Curitiba, Brazil",
+      "position": "Intern",
+      "url": "https://revendamais.com.br/",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Pelissari",
+      "location": "Curitiba, Brazil",
+      "position": "Intern",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Brazillian Army",
+      "location": "Curitiba, Brazil",
+      "position": "Staff Officer Trainee",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Secretaria do Estado de Obras Públicas",
+      "location": "Curitiba, Brazil",
+      "position": "Intern",
+      "summary": "",
+      "highlights": []
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "Pontifícia Universidade Católica do Paraná",
+      "area": "Ciência da Computação",
+      "studyType": "Bachelor's degree",
+      "startDate": "2007-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "AWS Certified Security – Specialty",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://www.credly.com/badges/969a1f12-e6e6-4af4-8e30-512cc225caa3"
+    },
+    {
+      "name": "AWS Certified Solutions Architect – Professional",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2025-04-30",
+      "startDate": "2022-04-30",
+      "url": "https://www.credly.com/badges/25a7e130-408c-4b56-b322-d57e1edd519f"
+    },
+    {
+      "name": "AWS Certified SysOps Administrator – Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2025-03-31",
+      "startDate": "2022-03-31",
+      "url": "https://www.credly.com/badges/cf2096b2-96c1-41fe-a643-47fc6c1e53c2"
+    },
+    {
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2025-02-28",
+      "startDate": "2022-02-28",
+      "url": "https://www.credly.com/badges/e2a28099-e35d-485e-b569-b32fa568e51c"
+    },
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2025-04-30",
+      "startDate": "2022-02-28",
+      "url": "https://www.credly.com/badges/8de8f063-33b9-4889-925c-62a6ce712e44"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2025-04-30",
+      "startDate": "2022-01-31",
+      "url": "https://www.credly.com/badges/79dac572-0436-4286-a5a0-4b0e7fe5416d/public_url"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Amazon Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "level": "",
+      "keywords": []
+    },
+    
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Heroku",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub Actions",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English - Fluent"
+    },
+    {
+      "language": "Portuguese(BR) - Native"
+    }
+  ],
+  "references": [
+    {
+      "name": "Cristiano Fontana",
+      "reference": "Vitor is an extremely qualified professional. Demonstrates a great deal of technical ability to solve problems or to supply new solutions. While Vitor is very good technically, he conveys his skill to the other professionals he works with."
+    },
+    {
+      "name": "David Gough",
+      "reference": "Vitor is an excellent developer/software architect and he´ll go the extra mile to deliver. He´s the guy you can throw the really hard/complicated tasks at, and the ones you need solved quickly and efficiently and can rely on him to get the job done. He´s a hard worker with solid problem solving and technical skills. I had a great time working with Vitor on one of those projects at MadeiraMadeira where he was always available and ready to help out, at all hours of the day or night, and was a crucial element in the project’s success. I´d hire him and highly recommend him."
+    },
+    {
+      "name": "Samuel Henrique",
+      "reference": "Vitor is the type of person that very easily raises the productivity of all the engineers working with him by a very noticeable margin. Give him a problem that he has never seen before and he will come up with an extremely reliable and targeted solution, even addressing the root cause of that problem that is not noticed by most.\n\nFinding engineers that are very good individually is hard, but finding engineers that aggregate value for the whole team is a lot more harder. Vitor is both."
+    },
+    {
+      "name": "Ivan Zamban",
+      "reference": "Vitor is not only a fantastic and precise Architect but also an inspiring person. He is a detail oriented, goal oriented, ambitious and powerful co-worker, his knowledge is vast and thorough. Vitor is extremely enthusiastic about his work which is infectious. He was always able to successfully complete any tasks with favorable results despite deadline pressure. Through the years, we worked on various projects and I was impressed by his manner of doing a great job. I enjoyed working with him on the various projects we took on. "
+    },
+    {
+      "name": "Rafael Alves Correa",
+      "reference": "Lobão have great tech skills and leadership's soul. Your xp give to him the ability to solve problems or construct new solutions in the best way possible, every time thinking on better forms to improve yous skills with tecnologies and teams."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "rnord"
+  }
+}
