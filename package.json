@@ -2,7 +2,7 @@
   "scripts": {
     "dev": "resume serve --theme stackoverflow",
     "build": "resume export resume.pdf --format pdf --theme stackoverflow",
-    "build-html": "resume export resume.html --format html --theme stackoverflow"
+    "build-html": "resume export build/index.html --format html --theme stackoverflow"
   },
   "dependencies": {
     "jsonresume-theme-stackoverflow": "^2.0.2",

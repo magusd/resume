@@ -2,41 +2,42 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Vitor Lobão",
-    "label": "DevOps",
+    "label": "Senior DevOps",
     "image": "",
     "email": "vitor.lobs@gmail.com",
     "phone": "+5541997953049",
     "url": "https://linkedin.com/magusd",
     "summary": "Seasoned devops engineer with software engineering background.",
-    "location": {
-      "countryCode": "BR",
-      "address": ""
-    },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "magusd",
+        "username": "LinkedIn",
         "url": "https://www.linkedin.com/in/magusd/"
       },
       {
         "network": "Github",
-        "username": "magusd",
+        "username": "Github",
         "url": "https://github.com/magusd"
       },
       {
         "network": "Credly",
-        "username": "vitor-lobao",
+        "username": "Certifications",
         "url": "https://www.credly.com/users/vitor-lobao/badges"
-      },
-      {
-        "network": "StackOverflow",
-        "username": "magus",
-        "url": "https://stackoverflow.com/users/1489237/magus"
       }
-
     ]
   },
   "work": [
+    {
+      "name": "Aiwyn",
+      "location": "United States",
+      "position": "Senior DevOps Engineer",
+      "url": "https://aiwyn.ai/",
+      "startDate": "2023-03-08",
+      "summary": "",
+      "highlights": [
+        "Pulimi as IaC tool for managing gcp and kubernetes"
+      ]
+    },
     {
       "name": "Upright",
       "location": "New York, United States",
@@ -44,7 +45,11 @@
       "url": "https://upright.us/",
       "startDate": "2023-03-08",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Container and terraform workshops",
+        "Implemented backstage as a developer portal tool",
+        "AWS Cost optmization"
+      ]
     },
     {
       "name": "Upright",
@@ -54,7 +59,13 @@
       "startDate": "2022-11-08",
       "endDate": "2023-03-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "WAF + CDN implementation",
+        "Migration from Heroku to AWS",
+        "Zero downtime database migration with bucardo",
+        "Implemented a serverless pipeline",
+        "Infrastructure management with terraform"
+      ]
     },
     {
       "name": "Tesorio",
@@ -64,7 +75,12 @@
       "startDate": "2022-07-01",
       "endDate": "2023-01-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Migration from Heroku to AWS",
+        "Kubernetes management",
+        "AWS Cost optmization",
+        "Zero downtime database migration with bucardo"
+      ]
     },
     {
       "name": "Carta Healthcare",
@@ -73,8 +89,13 @@
       "url": "https://carta.healthcare/",
       "startDate": "2020-05-01",
       "endDate": "2022-07-01",
-      "summary": "",
-      "highlights": []
+      "summary": "Kubernetes, CLI and pipeline development",
+      "highlights": [
+        "Migration from Azure to AWS",
+        "Moved our cicd to kubernetes",
+        "SWE cli development",
+        "AWS Cost optmization"
+      ]
     },
     {
       "name": "Munai(Robô Laura)",
@@ -84,7 +105,11 @@
       "startDate": "2020-01-01",
       "endDate": "2020-08-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "AWS Cost optmization",
+        "Rancher multi cluster management",
+        "Mongodb database administration"
+      ]
     },
     {
       "name": "MadeiraMadeira",
@@ -93,8 +118,12 @@
       "url": "https://madeiramadeira.com.br/",
       "startDate": "2019-07-01",
       "endDate": "2019-11-01",
-      "summary": "",
-      "highlights": []
+      "summary": "Owned and reviewed the entire company's in house software catalog",
+      "highlights": [
+        "Lead of the architecture committee",
+        "Data lake development",
+        "AWS Cost optmization"
+      ]
     },
     {
       "name": "MadeiraMadeira",
@@ -103,8 +132,12 @@
       "url": "https://madeiramadeira.com.br/",
       "startDate": "2018-10-01",
       "endDate": "2019-07-01",
-      "summary": "",
-      "highlights": []
+      "summary": "E-commerce and api development",
+      "highlights": [
+        "Chatbot application release in record time",
+        "Instrumented the e-commerce application with logs and traces",
+        "AWS cross region migration"
+      ]
     },
     {
       "name": "MadeiraMadeira",
@@ -113,22 +146,33 @@
       "url": "https://madeiramadeira.com.br/",
       "startDate": "2016-05-01",
       "endDate": "2018-03-01",
-      "summary": "",
-      "highlights": []
+      "summary": "e-commerce and api programming with PHP",
+      "highlights": [
+        "Security patching with insighs from site blindado",
+        "Performance optimization using new relic",
+        "Unified all the supplier facing apis"
+      ]
     },
     {
       "name": "SimpleGuest",
       "location": "Curitiba, Brazil",
       "position": "Founder | Senior Software Engineer",
-      "summary": "",
-      "highlights": []
+      "summary": "NodeJS programming and task automation with zapier",
+      "startDate": "2015-08-01",
+      "endDate": "2016-05-01",
+      "highlights": [
+        "Tech founder",
+        "Delivered a MVP in 2 months"
+      ]
     },
     {
       "name": "Ebanx",
       "location": "Curitiba, Brazil",
       "position": "Senior Software Engineer",
       "url": "https://www.ebanx.com/en/",
-      "summary": "",
+      "summary": "PHP programming",
+      "startDate": "2014-08-01",
+      "endDate": "2014-12-01",
       "highlights": []
     },
     {
@@ -136,51 +180,69 @@
       "location": "Curitiba, Brazil",
       "position": "Senior Software Engineer",
       "url": "https://revendamais.com.br/",
-      "summary": "",
-      "highlights": []
+      "summary": "PHP programming and aws maintenance",
+      "startDate": "2014-01-01",
+      "endDate": "2014-08-01",
+      "highlights": [
+        "Migration to AWS",
+        "Delivered a classified ads portal that was a marketplace for the company's ERP customers"
+      ]
     },
     {
       "name": "Astropay",
       "location": "Uruguay",
       "position": "Junior Software Engineer",
       "url": "https://www.astropay.com/",
-      "summary": "",
+      "summary": "Backoffice process automation selenium and java",
+      "startDate": "2013-07-01",
+      "endDate": "2013-12-01",
       "highlights": []
     },
     {
       "name": "LojasKD",
       "location": "Curitiba, Brazil",
       "position": "Junior Software Engineer",
-      "summary": "",
-      "highlights": []
+      "summary": "AWS migration and e-commerce programming in php",
+      "startDate": "2012-05-01",
+      "endDate": "2013-02-01",
+      "highlights": [
+        "Blog migration from on-prem to aws"
+      ]
     },
     {
       "name": "ExxonMobil",
       "location": "Curitiba, Brazil",
       "position": "Intern",
       "url": "https://revendamais.com.br/",
-      "summary": "",
+      "startDate": "2011-01-01",
+      "endDate": "2011-03-01",
       "highlights": []
     },
     {
       "name": "Pelissari",
       "location": "Curitiba, Brazil",
       "position": "Intern",
-      "summary": "",
+      "summary": "Microsoft sharepoint and php programming",
+      "startDate": "2010-06-01",
+      "endDate": "2010-12-01",
       "highlights": []
     },
     {
       "name": "Brazillian Army",
       "location": "Curitiba, Brazil",
       "position": "Staff Officer Trainee",
-      "summary": "",
+      "summary": "Military training to be a commanding officer in the Brazillian army",
+      "startDate": "2008-01-01",
+      "endDate": "2008-12-01",
       "highlights": []
     },
     {
       "name": "Secretaria do Estado de Obras Públicas",
       "location": "Curitiba, Brazil",
       "position": "Intern",
-      "summary": "",
+      "summary": "Computer maintenance, support and helpdesk.",
+      "startDate": "2007-03-01",
+      "endDate": "2007-07 -01",
       "highlights": []
     }
 
@@ -242,65 +304,39 @@
   "publications": [],
   "skills": [
     {
-      "name": "Amazon Web Services",
+      "name": "Cloud/Hosting",
       "level": "",
-      "keywords": []
+      "keywords": ["Amazon Web Services", "Heroku", "Digital Ocean", "Kubernetes"]
     },
     {
-      "name": "Kubernetes",
+      "name": "IaC",
       "level": "",
-      "keywords": []
+      "keywords": ["Docker", "Terraform", "tfCDK", "Puppet", "ansible", "Packer"]
     },
     {
-      "name": "Docker",
+      "name": "DevOps",
       "level": "",
-      "keywords": []
+      "keywords": ["Github Actions", "Gitea", "Bitbucket", "GitOps"]
     },
     {
-      "name": "Terraform",
+      "name": "Monitoring",
       "level": "",
-      "keywords": []
-    },
-    
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
+      "keywords": ["New Relic", "Datadog", "Loki", "Sentry", "Open Telemetry"]
     },
     {
-      "name": "MySQL",
+      "name": "Programming",
       "level": "",
-      "keywords": []
+      "keywords": ["Python", "Bash", "Go", "Node", "Javascript"]
     },
     {
-      "name": "PostgreSQL",
+      "name": "Frameworks",
       "level": "",
-      "keywords": []
+      "keywords": ["Django", "FastApi", "React"]
     },
     {
-      "name": "Python",
+      "name": "Databases",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Heroku",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Redis",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "GitHub Actions",
-      "level": "",
-      "keywords": []
+      "keywords": ["Postgres", "MySQL", "DynamoDB", "MongoDB", "Bucardo"]
     }
   ],
   "languages": [
